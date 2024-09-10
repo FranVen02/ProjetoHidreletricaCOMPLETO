@@ -169,6 +169,12 @@ body {
     font: bold 18px arial;
     color: white;
     float: right;
+}#memoria-jogo:hover{
+    background-color:white;
+    color:black;
+    border-radius:3px;
+    padding:2px;
+
 
 /*         */
 /* Classes */
